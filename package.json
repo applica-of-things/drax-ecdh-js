@@ -1,0 +1,26 @@
+{
+  "name": "drax-ecdh",
+  "version": "1.0.0",
+  "description": "Drax elliptic curve cryptography",
+  "main": "crypto.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/applica-of-things/drax-ecdh-js.git"
+  },
+  "keywords": [
+    "ecdh",
+    "drax",
+    "crypto",
+    "aes",
+    "embedded"
+  ],
+  "author": "Giuseppe Disimino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/applica-of-things/drax-ecdh-js/issues"
+  },
+  "homepage": "https://github.com/applica-of-things/drax-ecdh-js#readme"
+}
